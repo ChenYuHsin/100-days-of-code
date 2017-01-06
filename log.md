@@ -9,7 +9,7 @@
 
 ------
 
-### Day 1: January 4th, Wednesday 
+### Day 1: January 4th, Wednesday
 
 **Today's Progress**: Understand the `flex` in CSS
 
@@ -18,3 +18,12 @@
 **Link(s) to work**
 1. [my github of SimpleFlexLayout](https://github.com/ChenYuHsin/SimpleFlexLayout)
 2. [Notes of flex](https://github.com/ChenYuHsin/notebook/blob/master/CSS/flex%20%E8%A9%B3%E8%A7%A3.md)
+
+### Day 2: January 5th, Thursday
+
+**Today's Progress**: a little bit progress in `background-attachment`.
+
+**Thoughts**: Try to understand the full knowledge about `background`. But I was stucked by background-attachment...
+
+**Link(s) to work**
+no
