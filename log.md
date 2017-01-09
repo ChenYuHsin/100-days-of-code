@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example )
+### Day 0: February 30, 2016 (Example)
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
@@ -18,17 +18,6 @@
 **Link(s) to work**
 1. [my github of SimpleFlexLayout](https://github.com/ChenYuHsin/SimpleFlexLayout)
 2. [Notes of flex](https://github.com/ChenYuHsin/notebook/blob/master/CSS/flex%20%E8%A9%B3%E8%A7%A3.md)
-
-
-
-### Day 2: January 5th, Thursday
-
-**Today's Progress**: a little bit progress in `background-attachment`.
-
-**Thoughts**: Try to understand the full knowledge about `background`. But I was stucked by background-attachment...
-
-**Link(s) to work**
-no
 
 
 
