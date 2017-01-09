@@ -19,6 +19,8 @@
 1. [my github of SimpleFlexLayout](https://github.com/ChenYuHsin/SimpleFlexLayout)
 2. [Notes of flex](https://github.com/ChenYuHsin/notebook/blob/master/CSS/flex%20%E8%A9%B3%E8%A7%A3.md)
 
+
+
 ### Day 2: January 5th, Thursday
 
 **Today's Progress**: a little bit progress in `background-attachment`.
@@ -27,3 +29,26 @@
 
 **Link(s) to work**
 no
+
+
+
+### Day 2: January 5th, Thursday
+
+**Today's Progress**: a little bit progress in `background-attachment`.
+
+**Thoughts**: Try to understand the full knowledge about `background`. But I was stucked by background-attachment...
+
+**Link(s) to work**
+no
+
+
+
+### Day 3: January 9th, Monday
+
+**Today's Progress**: understanding `background-position`
+
+**Thoughts**: I got lazy in these days... and I feel regretful so mush right now. I hope the regret could make me stay focus on my job tomorrow.
+
+**Link(s) to work**
+My notes what I studied: [CSS Background完全攻略](https://github.com/ChenYuHsin/notebook/blob/master/CSS/background%E5%AE%8C%E5%85%A8%E6%94%BB%E7%95%A5/background%E5%AE%8C%E5%85%A8%E6%94%BB%E7%95%A5.md)
+
