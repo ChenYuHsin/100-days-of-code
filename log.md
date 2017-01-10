@@ -41,3 +41,14 @@ no
 **Link(s) to work**
 My notes what I studied: [CSS Background完全攻略](https://github.com/ChenYuHsin/notebook/blob/master/CSS/background%E5%AE%8C%E5%85%A8%E6%94%BB%E7%95%A5/background%E5%AE%8C%E5%85%A8%E6%94%BB%E7%95%A5.md)
 
+
+
+### Day 4: January 10th, Tuesday
+
+**Today's Progress**: understanding `background-clip`
+
+**Thoughts**: I am trying to understand the background-attachment but there is still something make me confused. I need to keep working.
+
+**Link(s) to work**
+My notes what I studied: [CSS Background完全攻略](https://github.com/ChenYuHsin/notebook/blob/master/CSS/background%E5%AE%8C%E5%85%A8%E6%94%BB%E7%95%A5/background%E5%AE%8C%E5%85%A8%E6%94%BB%E7%95%A5.md)
+
