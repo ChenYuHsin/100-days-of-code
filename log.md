@@ -52,3 +52,12 @@ My notes what I studied: [CSS Background完全攻略](https://github.com/ChenYuH
 **Link(s) to work**
 My notes what I studied: [CSS Background完全攻略](https://github.com/ChenYuHsin/notebook/blob/master/CSS/background%E5%AE%8C%E5%85%A8%E6%94%BB%E7%95%A5/background%E5%AE%8C%E5%85%A8%E6%94%BB%E7%95%A5.md)
 
+
+### Day 5: January 18th, Wednesday
+
+**Today's Progress**: understanding `background` and start doing flex-dice
+
+**Thoughts**: It's such a tragedy for me to go home for a little vacation... I just can't get things done when I'm at home. 
+
+**Link(s) to work**
+[FlexPractice_Dice](http://codepen.io/ChenYuHsin/pen/apBZqw)
