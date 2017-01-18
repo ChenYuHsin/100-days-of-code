@@ -61,3 +61,14 @@ My notes what I studied: [CSS Background完全攻略](https://github.com/ChenYuH
 
 **Link(s) to work**
 [FlexPractice_Dice](http://codepen.io/ChenYuHsin/pen/apBZqw)
+
+
+
+### Day 6: January 18th, Wednesday
+
+**Today's Progress**: finished flex-dice by myself and started to compare my code with others.
+
+**Thoughts**: I was good today and did a little progress. Thanks God and hope everything will be fine along the journey of #100daysofcode. 
+
+**Link(s) to work**
+[FlexPractice_Dice](http://codepen.io/ChenYuHsin/pen/apBZqw)
