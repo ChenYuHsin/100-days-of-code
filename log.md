@@ -72,3 +72,15 @@ My notes what I studied: [CSS Background完全攻略](https://github.com/ChenYuH
 
 **Link(s) to work**
 [FlexPractice_Dice](http://codepen.io/ChenYuHsin/pen/apBZqw)
+
+
+
+### Day 7: January 19th, Thursday
+
+**Today's Progress**: Understand the knowledge about CSS Attribute Selectors.
+
+**Thoughts**: It seems still a long way from me to get the ability of coding well... Sometimes I really feel worried about my slow progress. But I have to keep working! 
+
+**Link(s) to work**
+[MyNote about CSS Attribute Selectors](https://github.com/ChenYuHsin/notebook/blob/master/CSS/CSS%20selectors(Attribute%20Selectors)/CSS%20selectors(Attribute%20Selectors).md)
+
