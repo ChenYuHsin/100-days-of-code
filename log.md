@@ -84,3 +84,14 @@ My notes what I studied: [CSS Background完全攻略](https://github.com/ChenYuH
 **Link(s) to work**
 [MyNote about CSS Attribute Selectors](https://github.com/ChenYuHsin/notebook/blob/master/CSS/CSS%20selectors(Attribute%20Selectors)/CSS%20selectors(Attribute%20Selectors).md)
 
+
+
+### Day 8: January 20th, Friday
+
+**Today's Progress**: Understand CSS3 object-fit but not completed. 
+
+**Thoughts**: Even there are some other things in my life, I still have to code everyday! 
+
+**Link(s) to work**
+[MyNote about object-fit](https://github.com/ChenYuHsin/notebook/blob/master/CSS/object-fit%20object-position.md)
+
