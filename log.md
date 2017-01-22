@@ -95,3 +95,13 @@ My notes what I studied: [CSS Background完全攻略](https://github.com/ChenYuH
 **Link(s) to work**
 [MyNote about object-fit](https://github.com/ChenYuHsin/notebook/blob/master/CSS/object-fit%20object-position.md)
 
+
+
+### Day 9: January 22th, Sunday
+
+**Today's Progress**: Get totally stuck in some issues about height 100% 
+
+**Thoughts**: Debugging a whole day really makes me exhausted. And the worst is that I still don't figure out the answer about my problem.
+
+**Link(s) to work**
+[MyNote about object-fit](https://github.com/ChenYuHsin/notebook/blob/master/CSS/object-fit%20object-position.md)
