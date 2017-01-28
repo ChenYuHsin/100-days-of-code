@@ -105,3 +105,15 @@ My notes what I studied: [CSS Background完全攻略](https://github.com/ChenYuH
 
 **Link(s) to work**
 [MyNote about object-fit](https://github.com/ChenYuHsin/notebook/blob/master/CSS/object-fit%20object-position.md)
+
+
+
+### Day 9: January 28th, Saturday
+
+**Today's Progress**: Understand the object-fit and object-position 
+
+**Thoughts**: Although it's just Chinese Lunar New Year now, I got lazy. I feel shamed a lot. I have to keep working and coding to catch up with others. 
+
+**Link(s) to work**
+[DEMO about object-fit](https://chenyuhsin.github.io/DEMO_CSS_object-fit/)
+
