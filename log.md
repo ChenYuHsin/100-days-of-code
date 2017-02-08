@@ -108,7 +108,7 @@ My notes what I studied: [CSS Background完全攻略](https://github.com/ChenYuH
 
 
 
-### Day 9: January 28th, Saturday
+### Day 10: January 28th, Saturday
 
 **Today's Progress**: Understand the object-fit and object-position 
 
@@ -116,4 +116,14 @@ My notes what I studied: [CSS Background完全攻略](https://github.com/ChenYuH
 
 **Link(s) to work**
 [DEMO about object-fit](https://chenyuhsin.github.io/DEMO_CSS_object-fit/)
+
+
+### Day 11: February 8th, Wednesday
+
+**Today's Progress**: Finish the Flex-Dice 
+
+**Thoughts**: Keep working!
+
+**Link(s) to work**
+[DEMO Flex-Dice](https://chenyuhsin.github.io/FlexPractice_Dice/)
 
